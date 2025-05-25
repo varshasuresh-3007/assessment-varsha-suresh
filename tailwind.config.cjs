@@ -10,7 +10,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        // add custom colors (outside of tailwind)
+        body: '#dadad9',
       },
       spacing: {
         // add custom spacings (outside of tailwind)
